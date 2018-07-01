@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Eater');
+@import url('https://fonts.googleapis.com/css?family=Cairo|Eater');
+@import url('https://fonts.googleapis.com/css?family=Cairo|Eater|Monoton');
+body{
+  background-image:url('img/light-bg1.png');
+  text-align:center;
+}
+
+h1{
+  
+  font-size:100px;
+  font-family: 'Eater', cursive;
+  color:red;
+}
+
+p{
+  margin:3em;
+}
+
+.start{
+  display:block;
+  background-color : red;
+  color:white;
+  width:5em;
+  height:5em;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:2.5em;
+  line-height:5em;
+  text-decoration:none;
+}
+
+.p1{
+font-family: 'Cairo', sans-serif;
+font-size:70px;
+}
+
+.p2{
+font-family: 'Monoton', cursive;
+font-size:30px;
+}
+
+.playHeader{
+  font-family: 'Rock Salt', cursive;
+}
+
+.playBody{
+   background-image:url('img/dark-bg2.png');
+}
